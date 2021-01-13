@@ -5,7 +5,7 @@ on:
   push: { branches: [main] }
 
 env:
-  UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+  UNITY_LICENSE: SC-6UMN-BZQT-7RNV-WWUK-MZNZ
 
 jobs:
   build:
