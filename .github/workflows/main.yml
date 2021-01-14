@@ -28,7 +28,7 @@ jobs:
 
       # Test
       - name: Run tests
-        uses: webbertakken/unity-test-runner@v1.7
+        uses: webbertakken/unity-test-runner@latest
 
       # Build
       - name: Build project
